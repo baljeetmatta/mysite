@@ -15,7 +15,7 @@
 .header{
     background-color: antiquewhite;
 }
-.navigation ul
+.navigation ul,li
 {
     list-style: none;
 
